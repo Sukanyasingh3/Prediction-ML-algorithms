@@ -49,3 +49,15 @@ After setting up the project, you can use the provided Jupyter notebooks or Pyth
 
 ```bash
 python main.py
+```
+## Results
+
+The results of each algorithm are documented in the `results/` directory. This includes performance metrics, visualizations, and any relevant analysis.
+
+## Contributing
+
+If you would like to contribute to this project, please follow the standard procedures for pull requests and issue reporting. Contributions are welcome in the form of bug fixes, feature enhancements, or additional algorithms.
+
+
+
+
