@@ -13,7 +13,6 @@ This repository contains the code and dataset for predicting wine quality using 
 5. [Usage](#usage)
 6. [Results](#results)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 
@@ -41,22 +40,34 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your-username/wine-quality-prediction.git
+```bash
+   git clone https://github.com/Sukanyasingh3/Prediction-ML-algorithms.git
+```
+   
 ## Usage
 
 After setting up the project, you can use the provided Jupyter notebooks or Python scripts to train and evaluate the models. The main entry point is the `main.py` script.
 
-```bash
-python main.py
-```
+   ```bash
+   python main.py
+   ```
 ## Results
 
 The results of each algorithm are documented in the `results` directory. This includes performance metrics, visualizations, and any relevant analysis.
 
 ## Contributing
 
-If you would like to contribute to this project, please follow the standard procedures for pull requests and issue reporting. Contributions are welcome in the form of bug fixes, feature enhancements, or additional algorithms.
+Feel free to explore each project's respective notebook or document for a more in-depth understanding of the datasets and insights derived through exploratory data analysis.
+
+If you would like to contribute to the project, follow these steps:
+
+ - Fork the repository.
+ - Create a new branch for your feature or bug fix.
+ - Make your changes and submit a pull request.
+
+   Happy coding!
+
+
 
 
 
