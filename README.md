@@ -52,7 +52,7 @@ python main.py
 ```
 ## Results
 
-The results of each algorithm are documented in the `results/` directory. This includes performance metrics, visualizations, and any relevant analysis.
+The results of each algorithm are documented in the `results` directory. This includes performance metrics, visualizations, and any relevant analysis.
 
 ## Contributing
 
